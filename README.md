@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 TypeScript   11 hrs 34 mins  ████████████████████████░   96.05 % 
