@@ -13,21 +13,21 @@
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3.0%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 271 Contributions in year 2020
+> 🏆 271 Contributions in the year 2020
  > 
-> 📦 Used 49.7 kB in GitHub's Storage 
+> 📦 49.7 kB Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 37 Public repositories
  > 
-> 🔑 2 Owned Private Repositories 
+> 🔑 2 Private repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
@@ -36,7 +36,7 @@
 🌙 Night      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06%
 
 ```
-📅 **I'm Most Productive on Thursdays** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
@@ -50,26 +50,26 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Kolkata
+⌚︎ Time zone: Asia/Kolkata
 
-💬 Languages: 
+💬 Programming Languages: 
 TypeScript               13 hrs 45 mins      ████████████████████████░   95.83% 
 JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
 JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
 Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  14 hrs 20 mins      █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      14 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               11 repos            █████████████░░░░░░░░░░░░   52.38% 
