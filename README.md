@@ -13,19 +13,19 @@
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 278 Contributions in the year 2020
+> 🏆 278 Contributions in the Year 2020
  > 
 > 📦 49.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public repositories
+> 📜 37 Public Repositories
  > 
-> 🔑 2 Private repositories 
+> 🔑 2 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -50,23 +50,23 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.05% 
-TypeScript               3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.18% 
-JavaScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
+Dart                     4 hrs 11 mins       ████████████░░░░░░░░░░░░░   51.35% 
+JavaScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.87%
 
-🔥 Code Editors: 
-VS Code                  11 hrs 19 mins      █████████████████████████   100.0%
+🔥 Editors: 
+VS Code                  8 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 hrs 19 mins      █████████████████████████   100.0%
+Mac                      8 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
