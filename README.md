@@ -15,13 +15,13 @@
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 346 Contributions in the Year 2020
  > 
-> 📦 49.7 kB Used in Github's Storage 
+> 📦 49.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,15 +58,15 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 38 mins      ████████████████████████░   98.18% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+TypeScript               11 hrs 34 mins      ████████████████████████░   98.24% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  11 hrs 51 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 47 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 hrs 51 mins      █████████████████████████   100.0%
+Mac                      11 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
