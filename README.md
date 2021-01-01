@@ -19,7 +19,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 804 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 61.1 kB Used in Github's Storage 
  > 
@@ -58,14 +58,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        ████████████████████████░   99.46% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
