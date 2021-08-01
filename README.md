@@ -88,7 +88,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohammedAkhil/MohammedAkhil/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/07/2021
+ Last Updated on 01/08/2021
 <!--END_SECTION:waka-->
 
 
