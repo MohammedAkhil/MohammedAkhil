@@ -13,13 +13,13 @@
 
 
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125853%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 356 Contributions in the Year 2021
+> 🏆 358 Contributions in the Year 2021
  > 
 > 📦 67.0 kB Used in Github's Storage 
  > 
@@ -58,16 +58,17 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       █████████████░░░░░░░░░░░░   51.55% 
-HTML                     1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.88% 
-JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.52%
+TypeScript               4 hrs 49 mins       ███████████████░░░░░░░░░░   61.44% 
+HTML                     1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   22.32% 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 51 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs 20 mins       █████████████████████████   100.0%
+Mac                      7 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +89,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohammedAkhil/MohammedAkhil/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 
 
