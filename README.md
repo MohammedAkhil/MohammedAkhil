@@ -17,11 +17,11 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125853%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 429 Contributions in the Year 2021
+> 🏆 434 Contributions in the Year 2021
  > 
-> 📦 68.3 kB Used in Github's Storage 
+> 📦 68.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,16 +58,16 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 39 mins      ████████████████████████░   99.1% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
+TypeScript               10 hrs 52 mins      █████████████████████████   99.74% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  11 hrs 45 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 53 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 hrs 45 mins      █████████████████████████   100.0%
+Mac                      10 hrs 53 mins      █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +88,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohammedAkhil/MohammedAkhil/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 
