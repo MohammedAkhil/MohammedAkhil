@@ -21,7 +21,7 @@
 
 > 🏆 534 Contributions in the Year 2021
  > 
-> 📦 68.3 kB Used in GitHub's Storage 
+> 📦 68.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohammedAkhil/MohammedAkhil/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
 
