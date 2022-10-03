@@ -15,7 +15,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C964%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163%20Thousand%20lines%20of%20code-blue)
 
@@ -23,7 +23,7 @@
 
 > 🏆 269 Contributions in the Year 2022
  > 
-> 📦 71.5 kB Used in GitHub's Storage 
+> 📦 71.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,7 +87,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohammedAkhil/MohammedAkhil/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2022 01:48:05 UTC
+ Last Updated on 03/10/2022 01:24:34 UTC
 <!--END_SECTION:waka-->
 
 
